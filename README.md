@@ -1,5 +1,5 @@
 # popcat.clicker
- auto clicker for https://popcat.click/
+ multithread auto clicker for https://popcat.click/
 
 # Prerequisites
 
