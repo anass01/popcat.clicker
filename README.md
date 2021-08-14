@@ -11,4 +11,4 @@ python 3
 | -------- | :------------------- |
 | selenium | pip install selenium |
 
-download compatible geckodriver [https://github.com/mozilla/geckodriver/releases](here)
+download compatible geckodriver [here](https://github.com/mozilla/geckodriver/releases)
